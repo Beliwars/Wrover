@@ -39,8 +39,8 @@
 #define ON 1
 #define OFF 0
 
-const char* ssid = "ROBRIN01";
-const char* password = "s1yexyuAzgeu7ioH69";
+const char* ssid = "";
+const char* password = "";
 
 //Adafruit_ILI9341 tft = Adafruit_ILI9341(TFT_CS, TFT_DC);
 // If using the breakout, change pins as desired
